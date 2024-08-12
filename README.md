@@ -112,7 +112,7 @@ This project is an adaptation of the concepts and methodologies taught by SKILLC
 - <b>[SKILLCATE YouTube Channel](https://youtu.be/g7hEPopJ4MY?si=6rqY0gc6PiNl12Sm)</b>
 
 ### Disclaimer
-This project is based on a fictional company, ABC Supermarket. All data, analyses, and insights presented here are for educational and illustrative purposes only and do not reflect any real-world business entity or data.
+This project is based on a fictional company, ABC Supermarket. All data, analyses, and insights presented here are for learning purposes only and do not reflect any real-world business entity or data.
 
 Please note that this project is an adaptation of the concepts and methodologies taught by SKILLCATE. Any code, data, or content not directly from SKILLCATE is original work created for this project and is covered under the MIT License.
 
