@@ -81,6 +81,7 @@ The dataset contains 22,500 samples, segmented into an 80% training set and a 20
 - **Tools:** Python, Jupyter Notebook, Scikit-learn.
 
 **5. Data Visualisation:**
+- **Preview:** [Tableau Public](https://public.tableau.com/app/profile/jiahao.shao/viz/MarketingProject_17234127913230/ModellingAnalysis)
 - **Steps:** Create interactive dashboards to visualise data insights and trends, aiding in decision-making for the marketing campaign.
   - **Dashboard 1 - Modelling & Analysis:**
     - *Modelling Performances:* Displays key performance metrics including the accuracy score of the model used to predict consumer behaviour.
